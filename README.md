@@ -11,17 +11,17 @@
 ![image](https://github.com/user-attachments/assets/949429c5-cbf5-4fe5-af71-0443e2fdfcb9)
 
 ## 3. Result(Initial Balance: 100000)
-### 1st Simulation
+### 3.1 1st Simulation
 ![image](https://github.com/user-attachments/assets/59f9c320-3bb6-4d46-bb97-bcb03260f1c1)
 
-### 2nd Simulation
+### 3.2 2nd Simulation
 ![image](https://github.com/user-attachments/assets/c872dfa4-983d-4de1-beb0-b02d30c30a64)
 
-### 3rd Simulation
+### 3.3 3rd Simulation
 ![image](https://github.com/user-attachments/assets/f1ee6a66-c62e-49e3-913c-17afb2de4001)
 
-### 4th Simulation
+### 3.4 4th Simulation
 ![image](https://github.com/user-attachments/assets/81881362-2557-4be6-a7de-1d0189c5bcfe)
 
-### 5th Simulation
+### 3.5 5th Simulation
 ![image](https://github.com/user-attachments/assets/90bddd2f-fbc6-459f-9208-8c313a83def4)
