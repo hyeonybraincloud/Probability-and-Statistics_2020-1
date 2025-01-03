@@ -8,3 +8,4 @@
 이 Simulation은 여러 차례 실행하여 카드 카운팅 전략이 Dealer의 기본 전략에 비해 얼마나 효과적인지 평가할 수 있도록 한다.
 
 ## 2. Flowchart
+![image](https://github.com/user-attachments/assets/949429c5-cbf5-4fe5-af71-0443e2fdfcb9)
