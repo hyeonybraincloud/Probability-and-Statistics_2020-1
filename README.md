@@ -1,4 +1,4 @@
-# 확률및통계(Probability and statistics)
+# 확률및통계(Probability and statistics - C++)
 ## 1. Introduction
 이 프로젝트는 **Blackjack Card Game Simulation**으로, Player가 카드 카운팅 전략에 기반한 확률을 계산하여 게임 중 더 나은 결정을 하도록 한다. Blackjack은 21에 가까운 숫자를 만들어야 이기는 카드 게임이고, 본 시뮬레이션의 참여자는 Dealer 1명과 Player 1명이다.
 
